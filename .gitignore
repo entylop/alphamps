@@ -1,0 +1,5 @@
+/intsort
+/sort_tests
+/sort_tests_sanitize
+/*.dSYM/
+*.bin
